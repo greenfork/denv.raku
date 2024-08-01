@@ -10,5 +10,5 @@ zef install Point
 zef install Terminal::ReadKey
 ```
 
-3. Clone this repository `git clone https://github.com/greenfork/denv.raku.git`.
+3. Clone this repository `git clone https://github.com/greenfork/denv.raku.git && cd denv.raku`.
 4. Run with `raku game.raku`
